@@ -1,0 +1,33 @@
+.head{
+    background-image: url(bgimage.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+#mainhead{
+    background-color: black;
+    height: 25%;
+    opacity: 0.5;    
+    font-family: 'Bangers', cursive;
+
+}
+
+.scorebox{
+    
+
+    font-family: 'Prompt', sans-serif;
+    height: 30%;
+    width: 15%;
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    margin-top: 11.25%;
+    opacity: 0.5;
+    text-align: center;
+}
+.quizdetail{
+    padding-top: 50px;
+}
